@@ -20,3 +20,4 @@ ignorePaths:
 - FirebaseAppDistribution/Tests/Unit/Resources/x86_64-executable
   # This is involved with release tooling, but not sent to customers
 - ReleaseTooling/Template/dummy_Firebase_lib
+- ReleaseTooling/Template/dummy_Firebase_lib_updated
